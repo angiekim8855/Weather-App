@@ -32,7 +32,6 @@ export default function HomeScreen() {
         } = await Location.getCurrentPositionAsync({ accuracy: 5 });
 
         const location = await Location.reverseGeocodeAsync({ latitude, longitude });
-        console.log(location);
         location[0]?.city && setCity(location[0].city);
 
         const response = await fetch(

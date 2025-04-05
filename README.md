@@ -18,9 +18,9 @@ It fetches real-time weather data based on the user’s current location.
 
 ## Screenshots
 
-![Current Weather View](./assets/images/Screenshot-1.PNG.png)
-![Current Weather View](./assets/images/Screenshot-2.PNG.png)
-![Current Weather View](./assets/images/Screenshot-3.PNG.png)
+![Current Weather View](./assets/images/Screenshot-1.PNG)
+![Current Weather View](./assets/images/Screenshot-2.PNG)
+![Current Weather View](./assets/images/Screenshot-3.PNG)
 
 ## Get started
 

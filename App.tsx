@@ -75,7 +75,7 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
     container: { flex: 1, backgroundColor: "mediumseagreen" },
     city: {
-        flex: 1,
+        flex: 1.6,
         justifyContent: "center",
         alignItems: "center",
         flexDirection: "row",
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
         alignItems: "flex-start",
         paddingHorizontal: 20,
     },
-    temp: { marginTop: 40, fontSize: 80, color: "white" },
-    description: { marginTop: -20, fontSize: 40, fontWeight: 500, color: "white" },
+    temp: { marginTop: 40, fontSize: 80, color: "white", fontWeight: 600 },
+    description: { marginTop: -10, fontSize: 35, fontWeight: 500, color: "white" },
     tinyText: { fontSize: 20, color: "white" },
 });
